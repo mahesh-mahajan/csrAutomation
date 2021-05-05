@@ -21,7 +21,7 @@ $ sh generateCSR.sh mahesh.com
 
 This should provide you following folder & files.
 
-~/mahesh.com
+~/mahesh.com_csr
 ~/mahesh.com/mahesh.com.cfg
 ~/mahesh.com/mahesh.com.key
 ~/mahesh.com/mahesh.com.csr
